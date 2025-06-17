@@ -1,0 +1,510 @@
+2025-06-15 06:04:24,213 [INFO] attempts.txt already exists.
+2025-06-15 06:04:24,213 [INFO] Starting dial alignment procedure.
+2025-06-15 06:04:29,296 [INFO] Detected initial dial position: 89
+2025-06-15 06:04:29,296 [INFO] Rotating from position 89 to 0 (counterclockwise).
+2025-06-15 06:04:29,297 [INFO] Rotating 0 full passes + 89 steps to reach 0
+2025-06-15 06:04:40,100 [INFO] Rotation successful: 89 → 0
+2025-06-15 06:04:40,100 [INFO] Dial successfully aligned to position 0.
+2025-06-15 06:04:41,149 [INFO] Attempting combination 59 89 79 (attempt #1)
+2025-06-15 06:04:41,219 [INFO] Trying combination: 59 89 79
+2025-06-15 06:04:41,219 [INFO] Step 1: Turn LEFT to 59 on 4th pass
+2025-06-15 06:04:41,219 [INFO] Rotating 3 full passes + 59 steps to reach 59
+2025-06-15 06:05:09,822 [INFO] Rotation successful: 0 → 59
+2025-06-15 06:05:09,823 [INFO] Step 2: Turn RIGHT to 89 on 3rd pass
+2025-06-15 06:05:09,823 [INFO] Rotating 2 full passes + 70 steps to reach 89
+2025-06-15 06:05:32,537 [INFO] Rotation successful: 59 → 89
+2025-06-15 06:05:32,537 [INFO] Step 3: Turn LEFT to 79 on 2nd pass
+2025-06-15 06:05:32,538 [INFO] Rotating 1 full passes + 90 steps to reach 79
+2025-06-15 06:05:49,911 [INFO] Rotation successful: 89 → 79
+2025-06-15 06:05:49,912 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 06:05:49,912 [INFO] Rotating 1 full passes + 0 steps to reach 79
+2025-06-15 06:06:01,291 [INFO] Rotation successful: 79 → 79
+2025-06-15 06:06:01,291 [INFO] Completed combination attempt: 59 89 79 - continuing...
+2025-06-15 06:06:18,530 [INFO] Attempting combination 89 41 64 (attempt #2)
+2025-06-15 06:06:18,618 [INFO] Trying combination: 89 41 64
+2025-06-15 06:06:18,618 [INFO] Step 1: Turn LEFT to 89 on 4th pass
+2025-06-15 06:06:18,619 [INFO] Rotating 3 full passes + 10 steps to reach 89
+2025-06-15 06:06:57,260 [INFO] Rotation successful: 79 → 89
+2025-06-15 06:06:57,260 [INFO] Step 2: Turn RIGHT to 41 on 3rd pass
+2025-06-15 06:06:57,260 [INFO] Rotating 2 full passes + 48 steps to reach 41
+2025-06-15 06:07:18,544 [INFO] Rotation successful: 89 → 41
+2025-06-15 06:07:18,545 [INFO] Step 3: Turn LEFT to 64 on 2nd pass
+2025-06-15 06:07:18,545 [INFO] Rotating 1 full passes + 23 steps to reach 64
+2025-06-15 06:07:32,339 [WARNING] Position mismatch: expected 64, recognized as 63
+2025-06-15 06:07:32,339 [WARNING] Image saved to: misaligned_snaps/pos_41_to_23_20250615_060727.jpg
+2025-06-15 06:07:32,339 [ERROR] Error on step 3 for combination 89 41 64
+2025-06-15 16:21:15,153 [INFO] attempts.txt already exists.
+2025-06-15 16:21:15,154 [INFO] Starting dial alignment procedure.
+2025-06-15 16:21:18,896 [INFO] Detected initial dial position: 63
+2025-06-15 16:21:18,896 [INFO] Rotating from position 63 to 0 (counterclockwise).
+2025-06-15 16:21:18,896 [INFO] Rotating 0 full passes + 63 steps to reach 0
+2025-06-15 16:21:28,146 [INFO] Rotation successful: 63 → 0
+2025-06-15 16:21:28,146 [INFO] Dial successfully aligned to position 0.
+2025-06-15 16:21:29,143 [INFO] Attempting combination 60 62 46 (attempt #3)
+2025-06-15 16:21:29,212 [INFO] Trying combination: 60 62 46
+2025-06-15 16:21:29,212 [INFO] Step 1: Turn LEFT to 60 on 4th pass
+2025-06-15 16:21:29,212 [INFO] Rotating 3 full passes + 60 steps to reach 60
+2025-06-15 16:21:57,926 [WARNING] Position mismatch: expected 60, recognized as 51
+2025-06-15 16:21:57,926 [WARNING] Image saved to: misaligned_snaps/pos_0_to_60_20250615_162154.jpg
+2025-06-15 16:21:57,926 [ERROR] Error on step 1 for combination 60 62 46
+2025-06-15 16:24:43,936 [INFO] attempts.txt already exists.
+2025-06-15 16:24:43,936 [INFO] Starting dial alignment procedure.
+2025-06-15 16:24:47,731 [INFO] Detected initial dial position: 60
+2025-06-15 16:24:47,732 [INFO] Rotating from position 60 to 0 (counterclockwise).
+2025-06-15 16:24:47,732 [INFO] Rotating 0 full passes + 60 steps to reach 0
+2025-06-15 16:24:56,786 [INFO] Rotation successful: 60 → 0
+2025-06-15 16:24:56,786 [INFO] Dial successfully aligned to position 0.
+2025-06-15 16:24:57,720 [INFO] Attempting combination 89 41 64 (attempt #2)
+2025-06-15 16:24:57,793 [INFO] Trying combination: 89 41 64
+2025-06-15 16:24:57,793 [INFO] Step 1: Turn LEFT to 89 on 4th pass
+2025-06-15 16:24:57,793 [INFO] Rotating 3 full passes + 89 steps to reach 89
+2025-06-15 16:25:28,314 [INFO] Rotation successful: 0 → 89
+2025-06-15 16:25:28,315 [INFO] Step 2: Turn RIGHT to 41 on 3rd pass
+2025-06-15 16:25:28,315 [INFO] Rotating 2 full passes + 48 steps to reach 41
+2025-06-15 16:25:49,520 [INFO] Rotation successful: 89 → 41
+2025-06-15 16:25:49,520 [INFO] Step 3: Turn LEFT to 64 on 2nd pass
+2025-06-15 16:25:49,521 [INFO] Rotating 1 full passes + 23 steps to reach 64
+2025-06-15 16:26:02,500 [INFO] Rotation successful: 41 → 64
+2025-06-15 16:26:02,500 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:26:02,500 [INFO] Rotating 1 full passes + 0 steps to reach 64
+2025-06-15 16:26:13,898 [INFO] Rotation successful: 64 → 64
+2025-06-15 16:26:13,899 [INFO] Completed combination attempt: 89 41 64 - continuing...
+2025-06-15 16:26:15,516 [INFO] Attempting combination 60 62 46 (attempt #3)
+2025-06-15 16:26:15,584 [INFO] Trying combination: 60 62 46
+2025-06-15 16:26:15,584 [INFO] Step 1: Turn LEFT to 60 on 4th pass
+2025-06-15 16:26:15,584 [INFO] Rotating 3 full passes + 96 steps to reach 60
+2025-06-15 16:26:46,582 [INFO] Rotation successful: 64 → 60
+2025-06-15 16:26:46,582 [INFO] Step 2: Turn RIGHT to 62 on 3rd pass
+2025-06-15 16:26:46,583 [INFO] Rotating 2 full passes + 98 steps to reach 62
+2025-06-15 16:27:11,101 [INFO] Rotation successful: 60 → 62
+2025-06-15 16:27:11,102 [INFO] Step 3: Turn LEFT to 46 on 2nd pass
+2025-06-15 16:27:11,102 [INFO] Rotating 1 full passes + 84 steps to reach 46
+2025-06-15 16:27:28,057 [INFO] Rotation successful: 62 → 46
+2025-06-15 16:27:28,057 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:27:28,058 [INFO] Rotating 1 full passes + 0 steps to reach 46
+2025-06-15 16:27:39,463 [INFO] Rotation successful: 46 → 46
+2025-06-15 16:27:39,464 [INFO] Completed combination attempt: 60 62 46 - continuing...
+2025-06-15 16:27:40,313 [INFO] Attempting combination 84 21 13 (attempt #4)
+2025-06-15 16:27:40,387 [INFO] Trying combination: 84 21 13
+2025-06-15 16:27:40,388 [INFO] Step 1: Turn LEFT to 84 on 4th pass
+2025-06-15 16:27:40,388 [INFO] Rotating 3 full passes + 38 steps to reach 84
+2025-06-15 16:28:07,576 [INFO] Rotation successful: 46 → 84
+2025-06-15 16:28:07,576 [INFO] Step 2: Turn RIGHT to 21 on 3rd pass
+2025-06-15 16:28:07,576 [INFO] Rotating 2 full passes + 63 steps to reach 21
+2025-06-15 16:28:29,844 [INFO] Rotation successful: 84 → 21
+2025-06-15 16:28:29,844 [INFO] Step 3: Turn LEFT to 13 on 2nd pass
+2025-06-15 16:28:29,844 [INFO] Rotating 1 full passes + 92 steps to reach 13
+2025-06-15 16:28:47,354 [INFO] Rotation successful: 21 → 13
+2025-06-15 16:28:47,355 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:28:47,355 [INFO] Rotating 1 full passes + 0 steps to reach 13
+2025-06-15 16:28:58,738 [INFO] Rotation successful: 13 → 13
+2025-06-15 16:28:58,739 [INFO] Completed combination attempt: 84 21 13 - continuing...
+2025-06-15 16:29:00,802 [INFO] Attempting combination 35 78 01 (attempt #5)
+2025-06-15 16:29:00,870 [INFO] Trying combination: 35 78 1
+2025-06-15 16:29:00,870 [INFO] Step 1: Turn LEFT to 35 on 4th pass
+2025-06-15 16:29:00,871 [INFO] Rotating 3 full passes + 22 steps to reach 35
+2025-06-15 16:29:27,060 [INFO] Rotation successful: 13 → 35
+2025-06-15 16:29:27,060 [INFO] Step 2: Turn RIGHT to 78 on 3rd pass
+2025-06-15 16:29:27,060 [INFO] Rotating 2 full passes + 57 steps to reach 78
+2025-06-15 16:29:48,961 [INFO] Rotation successful: 35 → 78
+2025-06-15 16:29:48,961 [INFO] Step 3: Turn LEFT to 1 on 2nd pass
+2025-06-15 16:29:48,962 [INFO] Rotating 1 full passes + 23 steps to reach 1
+2025-06-15 16:30:01,928 [INFO] Rotation successful: 78 → 1
+2025-06-15 16:30:01,928 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:30:01,928 [INFO] Rotating 1 full passes + 0 steps to reach 1
+2025-06-15 16:30:13,316 [INFO] Rotation successful: 1 → 1
+2025-06-15 16:30:13,317 [INFO] Completed combination attempt: 35 78 1 - continuing...
+2025-06-15 16:30:15,038 [INFO] Attempting combination 53 89 91 (attempt #6)
+2025-06-15 16:30:15,104 [INFO] Trying combination: 53 89 91
+2025-06-15 16:30:15,104 [INFO] Step 1: Turn LEFT to 53 on 4th pass
+2025-06-15 16:30:15,105 [INFO] Rotating 3 full passes + 52 steps to reach 53
+2025-06-15 16:30:43,291 [INFO] Rotation successful: 1 → 53
+2025-06-15 16:30:43,292 [INFO] Step 2: Turn RIGHT to 89 on 3rd pass
+2025-06-15 16:30:43,292 [INFO] Rotating 2 full passes + 64 steps to reach 89
+2025-06-15 16:31:05,630 [INFO] Rotation successful: 53 → 89
+2025-06-15 16:31:05,630 [INFO] Step 3: Turn LEFT to 91 on 2nd pass
+2025-06-15 16:31:05,631 [INFO] Rotating 1 full passes + 2 steps to reach 91
+2025-06-15 16:31:17,275 [INFO] Rotation successful: 89 → 91
+2025-06-15 16:31:17,275 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:31:17,275 [INFO] Rotating 1 full passes + 0 steps to reach 91
+2025-06-15 16:31:28,648 [INFO] Rotation successful: 91 → 91
+2025-06-15 16:31:28,648 [INFO] Completed combination attempt: 53 89 91 - continuing...
+2025-06-15 16:31:31,612 [INFO] Attempting combination 39 62 04 (attempt #7)
+2025-06-15 16:31:31,678 [INFO] Trying combination: 39 62 4
+2025-06-15 16:31:31,679 [INFO] Step 1: Turn LEFT to 39 on 4th pass
+2025-06-15 16:31:31,679 [INFO] Rotating 3 full passes + 48 steps to reach 39
+2025-06-15 16:31:59,519 [INFO] Rotation successful: 91 → 39
+2025-06-15 16:31:59,520 [INFO] Step 2: Turn RIGHT to 62 on 3rd pass
+2025-06-15 16:31:59,520 [INFO] Rotating 2 full passes + 77 steps to reach 62
+2025-06-15 16:32:22,695 [INFO] Rotation successful: 39 → 62
+2025-06-15 16:32:22,695 [INFO] Step 3: Turn LEFT to 4 on 2nd pass
+2025-06-15 16:32:22,696 [INFO] Rotating 1 full passes + 42 steps to reach 4
+2025-06-15 16:32:36,882 [INFO] Rotation successful: 62 → 4
+2025-06-15 16:32:36,883 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:32:36,884 [INFO] Rotating 1 full passes + 0 steps to reach 4
+2025-06-15 16:32:48,281 [INFO] Rotation successful: 4 → 4
+2025-06-15 16:32:48,282 [INFO] Completed combination attempt: 39 62 4 - continuing...
+2025-06-15 16:32:51,164 [INFO] Attempting combination 79 42 19 (attempt #8)
+2025-06-15 16:32:51,241 [INFO] Trying combination: 79 42 19
+2025-06-15 16:32:51,242 [INFO] Step 1: Turn LEFT to 79 on 4th pass
+2025-06-15 16:32:51,242 [INFO] Rotating 3 full passes + 75 steps to reach 79
+2025-06-15 16:33:20,934 [INFO] Rotation successful: 4 → 79
+2025-06-15 16:33:20,934 [INFO] Step 2: Turn RIGHT to 42 on 3rd pass
+2025-06-15 16:33:20,935 [INFO] Rotating 2 full passes + 37 steps to reach 42
+2025-06-15 16:33:41,424 [INFO] Rotation successful: 79 → 42
+2025-06-15 16:33:41,425 [INFO] Step 3: Turn LEFT to 19 on 2nd pass
+2025-06-15 16:33:41,425 [INFO] Rotating 1 full passes + 77 steps to reach 19
+2025-06-15 16:33:57,992 [INFO] Rotation successful: 42 → 19
+2025-06-15 16:33:57,992 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:33:57,993 [INFO] Rotating 1 full passes + 0 steps to reach 19
+2025-06-15 16:34:09,400 [INFO] Rotation successful: 19 → 19
+2025-06-15 16:34:09,400 [INFO] Completed combination attempt: 79 42 19 - continuing...
+2025-06-15 16:34:11,980 [INFO] Attempting combination 92 36 54 (attempt #9)
+2025-06-15 16:34:12,047 [INFO] Trying combination: 92 36 54
+2025-06-15 16:34:12,048 [INFO] Step 1: Turn LEFT to 92 on 4th pass
+2025-06-15 16:34:12,048 [INFO] Rotating 3 full passes + 73 steps to reach 92
+2025-06-15 16:34:41,599 [INFO] Rotation successful: 19 → 92
+2025-06-15 16:34:41,600 [INFO] Step 2: Turn RIGHT to 36 on 3rd pass
+2025-06-15 16:34:41,600 [INFO] Rotating 2 full passes + 56 steps to reach 36
+2025-06-15 16:35:03,415 [INFO] Rotation successful: 92 → 36
+2025-06-15 16:35:03,416 [INFO] Step 3: Turn LEFT to 54 on 2nd pass
+2025-06-15 16:35:03,416 [INFO] Rotating 1 full passes + 18 steps to reach 54
+2025-06-15 16:35:17,971 [INFO] Rotation successful: 36 → 54
+2025-06-15 16:35:17,972 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:35:17,972 [INFO] Rotating 1 full passes + 0 steps to reach 54
+2025-06-15 16:35:29,336 [INFO] Rotation successful: 54 → 54
+2025-06-15 16:35:29,336 [INFO] Completed combination attempt: 92 36 54 - continuing...
+2025-06-15 16:35:32,086 [INFO] Attempting combination 58 38 46 (attempt #10)
+2025-06-15 16:35:32,153 [INFO] Trying combination: 58 38 46
+2025-06-15 16:35:32,153 [INFO] Step 1: Turn LEFT to 58 on 4th pass
+2025-06-15 16:35:32,153 [INFO] Rotating 3 full passes + 4 steps to reach 58
+2025-06-15 16:35:57,187 [INFO] Rotation successful: 54 → 58
+2025-06-15 16:35:57,187 [INFO] Step 2: Turn RIGHT to 38 on 3rd pass
+2025-06-15 16:35:57,187 [INFO] Rotating 2 full passes + 20 steps to reach 38
+2025-06-15 16:36:16,597 [INFO] Rotation successful: 58 → 38
+2025-06-15 16:36:16,598 [INFO] Step 3: Turn LEFT to 46 on 2nd pass
+2025-06-15 16:36:16,598 [INFO] Rotating 1 full passes + 8 steps to reach 46
+2025-06-15 16:36:28,890 [INFO] Rotation successful: 38 → 46
+2025-06-15 16:36:28,891 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:36:28,891 [INFO] Rotating 1 full passes + 0 steps to reach 46
+2025-06-15 16:36:40,295 [INFO] Rotation successful: 46 → 46
+2025-06-15 16:36:40,296 [INFO] Completed combination attempt: 58 38 46 - continuing...
+2025-06-15 16:36:41,188 [INFO] Attempting combination 97 02 88 (attempt #11)
+2025-06-15 16:36:41,258 [INFO] Trying combination: 97 2 88
+2025-06-15 16:36:41,258 [INFO] Step 1: Turn LEFT to 97 on 4th pass
+2025-06-15 16:36:41,258 [INFO] Rotating 3 full passes + 51 steps to reach 97
+2025-06-15 16:37:09,379 [INFO] Rotation successful: 46 → 97
+2025-06-15 16:37:09,380 [INFO] Step 2: Turn RIGHT to 2 on 3rd pass
+2025-06-15 16:37:09,380 [INFO] Rotating 2 full passes + 95 steps to reach 2
+2025-06-15 16:37:33,716 [INFO] Rotation successful: 97 → 2
+2025-06-15 16:37:33,717 [INFO] Step 3: Turn LEFT to 88 on 2nd pass
+2025-06-15 16:37:33,717 [INFO] Rotating 1 full passes + 86 steps to reach 88
+2025-06-15 16:37:50,842 [INFO] Rotation successful: 2 → 88
+2025-06-15 16:37:50,842 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:37:50,843 [INFO] Rotating 1 full passes + 0 steps to reach 88
+2025-06-15 16:38:02,257 [INFO] Rotation successful: 88 → 88
+2025-06-15 16:38:02,258 [INFO] Completed combination attempt: 97 2 88 - continuing...
+2025-06-15 16:38:04,507 [INFO] Attempting combination 56 98 97 (attempt #12)
+2025-06-15 16:38:04,574 [INFO] Trying combination: 56 98 97
+2025-06-15 16:38:04,574 [INFO] Step 1: Turn LEFT to 56 on 4th pass
+2025-06-15 16:38:04,574 [INFO] Rotating 3 full passes + 68 steps to reach 56
+2025-06-15 16:38:33,807 [INFO] Rotation successful: 88 → 56
+2025-06-15 16:38:33,808 [INFO] Step 2: Turn RIGHT to 98 on 3rd pass
+2025-06-15 16:38:33,808 [INFO] Rotating 2 full passes + 58 steps to reach 98
+2025-06-15 16:38:55,761 [INFO] Rotation successful: 56 → 98
+2025-06-15 16:38:55,762 [INFO] Step 3: Turn LEFT to 97 on 2nd pass
+2025-06-15 16:38:55,762 [INFO] Rotating 1 full passes + 99 steps to reach 97
+2025-06-15 16:39:13,715 [INFO] Rotation successful: 98 → 97
+2025-06-15 16:39:13,715 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:39:13,716 [INFO] Rotating 1 full passes + 0 steps to reach 97
+2025-06-15 16:39:25,129 [INFO] Rotation successful: 97 → 97
+2025-06-15 16:39:25,130 [INFO] Completed combination attempt: 56 98 97 - continuing...
+2025-06-15 16:39:26,235 [INFO] Attempting combination 15 21 12 (attempt #13)
+2025-06-15 16:39:26,301 [INFO] Trying combination: 15 21 12
+2025-06-15 16:39:26,301 [INFO] Step 1: Turn LEFT to 15 on 4th pass
+2025-06-15 16:39:26,301 [INFO] Rotating 3 full passes + 18 steps to reach 15
+2025-06-15 16:39:52,225 [INFO] Rotation successful: 97 → 15
+2025-06-15 16:39:52,226 [INFO] Step 2: Turn RIGHT to 21 on 3rd pass
+2025-06-15 16:39:52,226 [INFO] Rotating 2 full passes + 94 steps to reach 21
+2025-06-15 16:40:16,478 [INFO] Rotation successful: 15 → 21
+2025-06-15 16:40:16,478 [INFO] Step 3: Turn LEFT to 12 on 2nd pass
+2025-06-15 16:40:16,479 [INFO] Rotating 1 full passes + 91 steps to reach 12
+2025-06-15 16:40:33,917 [INFO] Rotation successful: 21 → 12
+2025-06-15 16:40:33,917 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:40:33,918 [INFO] Rotating 1 full passes + 0 steps to reach 12
+2025-06-15 16:40:45,331 [INFO] Rotation successful: 12 → 12
+2025-06-15 16:40:45,332 [INFO] Completed combination attempt: 15 21 12 - continuing...
+2025-06-15 16:40:46,404 [INFO] Attempting combination 59 74 20 (attempt #14)
+2025-06-15 16:40:46,470 [INFO] Trying combination: 59 74 20
+2025-06-15 16:40:46,470 [INFO] Step 1: Turn LEFT to 59 on 4th pass
+2025-06-15 16:40:46,471 [INFO] Rotating 3 full passes + 47 steps to reach 59
+2025-06-15 16:41:14,230 [INFO] Rotation successful: 12 → 59
+2025-06-15 16:41:14,230 [INFO] Step 2: Turn RIGHT to 74 on 3rd pass
+2025-06-15 16:41:14,231 [INFO] Rotating 2 full passes + 85 steps to reach 74
+2025-06-15 16:41:37,916 [INFO] Rotation successful: 59 → 74
+2025-06-15 16:41:37,917 [INFO] Step 3: Turn LEFT to 20 on 2nd pass
+2025-06-15 16:41:37,917 [INFO] Rotating 1 full passes + 46 steps to reach 20
+2025-06-15 16:41:52,376 [INFO] Rotation successful: 74 → 20
+2025-06-15 16:41:52,377 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:41:52,377 [INFO] Rotating 1 full passes + 0 steps to reach 20
+2025-06-15 16:42:03,778 [INFO] Rotation successful: 20 → 20
+2025-06-15 16:42:03,778 [INFO] Completed combination attempt: 59 74 20 - continuing...
+2025-06-15 16:42:04,869 [INFO] Attempting combination 27 73 43 (attempt #15)
+2025-06-15 16:42:04,936 [INFO] Trying combination: 27 73 43
+2025-06-15 16:42:04,936 [INFO] Step 1: Turn LEFT to 27 on 4th pass
+2025-06-15 16:42:04,936 [INFO] Rotating 3 full passes + 7 steps to reach 27
+2025-06-15 16:42:30,095 [INFO] Rotation successful: 20 → 27
+2025-06-15 16:42:30,095 [INFO] Step 2: Turn RIGHT to 73 on 3rd pass
+2025-06-15 16:42:30,095 [INFO] Rotating 2 full passes + 54 steps to reach 73
+2025-06-15 16:42:51,779 [INFO] Rotation successful: 27 → 73
+2025-06-15 16:42:51,779 [INFO] Step 3: Turn LEFT to 43 on 2nd pass
+2025-06-15 16:42:51,779 [INFO] Rotating 1 full passes + 70 steps to reach 43
+2025-06-15 16:43:07,896 [INFO] Rotation successful: 73 → 43
+2025-06-15 16:43:07,897 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:43:07,897 [INFO] Rotating 1 full passes + 0 steps to reach 43
+2025-06-15 16:43:19,293 [INFO] Rotation successful: 43 → 43
+2025-06-15 16:43:19,293 [INFO] Completed combination attempt: 27 73 43 - continuing...
+2025-06-15 16:43:20,170 [INFO] Attempting combination 06 26 49 (attempt #16)
+2025-06-15 16:43:20,237 [INFO] Trying combination: 6 26 49
+2025-06-15 16:43:20,238 [INFO] Step 1: Turn LEFT to 6 on 4th pass
+2025-06-15 16:43:20,238 [INFO] Rotating 3 full passes + 63 steps to reach 6
+2025-06-15 16:43:49,133 [INFO] Rotation successful: 43 → 6
+2025-06-15 16:43:49,134 [INFO] Step 2: Turn RIGHT to 26 on 3rd pass
+2025-06-15 16:43:49,134 [INFO] Rotating 2 full passes + 80 steps to reach 26
+2025-06-15 16:44:12,485 [INFO] Rotation successful: 6 → 26
+2025-06-15 16:44:12,485 [INFO] Step 3: Turn LEFT to 49 on 2nd pass
+2025-06-15 16:44:12,485 [INFO] Rotating 1 full passes + 23 steps to reach 49
+2025-06-15 16:44:25,497 [INFO] Rotation successful: 26 → 49
+2025-06-15 16:44:25,497 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:44:25,497 [INFO] Rotating 1 full passes + 0 steps to reach 49
+2025-06-15 16:44:36,900 [INFO] Rotation successful: 49 → 49
+2025-06-15 16:44:36,900 [INFO] Completed combination attempt: 6 26 49 - continuing...
+2025-06-15 16:44:38,033 [INFO] Attempting combination 67 83 83 (attempt #17)
+2025-06-15 16:44:38,101 [INFO] Trying combination: 67 83 83
+2025-06-15 16:44:38,101 [INFO] Step 1: Turn LEFT to 67 on 4th pass
+2025-06-15 16:44:38,102 [INFO] Rotating 3 full passes + 18 steps to reach 67
+2025-06-15 16:45:04,003 [INFO] Rotation successful: 49 → 67
+2025-06-15 16:45:04,003 [INFO] Step 2: Turn RIGHT to 83 on 3rd pass
+2025-06-15 16:45:04,003 [INFO] Rotating 2 full passes + 84 steps to reach 83
+2025-06-15 16:45:27,628 [INFO] Rotation successful: 67 → 83
+2025-06-15 16:45:27,628 [INFO] Step 3: Turn LEFT to 83 on 2nd pass
+2025-06-15 16:45:27,628 [INFO] Rotating 1 full passes + 0 steps to reach 83
+2025-06-15 16:45:39,047 [INFO] Rotation successful: 83 → 83
+2025-06-15 16:45:39,048 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:45:39,048 [INFO] Rotating 1 full passes + 0 steps to reach 83
+2025-06-15 16:45:50,452 [INFO] Rotation successful: 83 → 83
+2025-06-15 16:45:50,453 [INFO] Completed combination attempt: 67 83 83 - continuing...
+2025-06-15 16:45:51,520 [INFO] Attempting combination 04 01 65 (attempt #18)
+2025-06-15 16:45:51,587 [INFO] Trying combination: 4 1 65
+2025-06-15 16:45:51,588 [INFO] Step 1: Turn LEFT to 4 on 4th pass
+2025-06-15 16:45:51,588 [INFO] Rotating 3 full passes + 21 steps to reach 4
+2025-06-15 16:46:18,406 [INFO] Rotation successful: 83 → 4
+2025-06-15 16:46:18,406 [INFO] Step 2: Turn RIGHT to 1 on 3rd pass
+2025-06-15 16:46:18,406 [INFO] Rotating 2 full passes + 3 steps to reach 1
+2025-06-15 16:46:36,735 [INFO] Rotation successful: 4 → 1
+2025-06-15 16:46:36,736 [INFO] Step 3: Turn LEFT to 65 on 2nd pass
+2025-06-15 16:46:36,736 [INFO] Rotating 1 full passes + 64 steps to reach 65
+2025-06-15 16:46:52,449 [INFO] Rotation successful: 1 → 65
+2025-06-15 16:46:52,449 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:46:52,449 [INFO] Rotating 1 full passes + 0 steps to reach 65
+2025-06-15 16:47:03,847 [INFO] Rotation successful: 65 → 65
+2025-06-15 16:47:03,847 [INFO] Completed combination attempt: 4 1 65 - continuing...
+2025-06-15 16:47:04,928 [INFO] Attempting combination 78 33 60 (attempt #19)
+2025-06-15 16:47:04,995 [INFO] Trying combination: 78 33 60
+2025-06-15 16:47:04,996 [INFO] Step 1: Turn LEFT to 78 on 4th pass
+2025-06-15 16:47:04,996 [INFO] Rotating 3 full passes + 13 steps to reach 78
+2025-06-15 16:47:30,552 [INFO] Rotation successful: 65 → 78
+2025-06-15 16:47:30,553 [INFO] Step 2: Turn RIGHT to 33 on 3rd pass
+2025-06-15 16:47:30,553 [INFO] Rotating 2 full passes + 45 steps to reach 33
+2025-06-15 16:47:51,578 [INFO] Rotation successful: 78 → 33
+2025-06-15 16:47:51,579 [INFO] Step 3: Turn LEFT to 60 on 2nd pass
+2025-06-15 16:47:51,579 [INFO] Rotating 1 full passes + 27 steps to reach 60
+2025-06-15 16:48:04,826 [INFO] Rotation successful: 33 → 60
+2025-06-15 16:48:04,827 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:48:04,827 [INFO] Rotating 1 full passes + 0 steps to reach 60
+2025-06-15 16:48:16,224 [INFO] Rotation successful: 60 → 60
+2025-06-15 16:48:16,225 [INFO] Completed combination attempt: 78 33 60 - continuing...
+2025-06-15 16:48:17,298 [INFO] Attempting combination 68 69 96 (attempt #20)
+2025-06-15 16:48:17,365 [INFO] Trying combination: 68 69 96
+2025-06-15 16:48:17,365 [INFO] Step 1: Turn LEFT to 68 on 4th pass
+2025-06-15 16:48:17,365 [INFO] Rotating 3 full passes + 8 steps to reach 68
+2025-06-15 16:48:42,642 [INFO] Rotation successful: 60 → 68
+2025-06-15 16:48:42,642 [INFO] Step 2: Turn RIGHT to 69 on 3rd pass
+2025-06-15 16:48:42,642 [INFO] Rotating 2 full passes + 99 steps to reach 69
+2025-06-15 16:49:07,243 [INFO] Rotation successful: 68 → 69
+2025-06-15 16:49:07,244 [INFO] Step 3: Turn LEFT to 96 on 2nd pass
+2025-06-15 16:49:07,244 [INFO] Rotating 1 full passes + 27 steps to reach 96
+2025-06-15 16:49:20,479 [INFO] Rotation successful: 69 → 96
+2025-06-15 16:49:20,479 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 16:49:20,480 [INFO] Rotating 1 full passes + 0 steps to reach 96
+2025-06-15 16:49:31,869 [INFO] Rotation successful: 96 → 96
+2025-06-15 16:49:31,870 [INFO] Completed combination attempt: 68 69 96 - continuing...
+2025-06-15 16:49:32,974 [INFO] Attempting combination 78 58 99 (attempt #21)
+2025-06-15 16:49:33,047 [INFO] Trying combination: 78 58 99
+2025-06-15 16:49:33,047 [INFO] Step 1: Turn LEFT to 78 on 4th pass
+2025-06-15 16:49:33,047 [INFO] Rotating 3 full passes + 82 steps to reach 78
+2025-06-15 16:50:03,186 [INFO] Rotation successful: 96 → 78
+2025-06-15 16:50:03,187 [INFO] Step 2: Turn RIGHT to 58 on 3rd pass
+2025-06-15 16:50:03,187 [INFO] Rotating 2 full passes + 20 steps to reach 58
+2025-06-15 16:50:22,594 [INFO] Rotation successful: 78 → 58
+2025-06-15 16:50:22,595 [INFO] Step 3: Turn LEFT to 99 on 2nd pass
+2025-06-15 16:50:22,595 [INFO] Rotating 1 full passes + 41 steps to reach 99
+2025-06-15 16:50:36,721 [WARNING] Position mismatch: expected 99, recognized as 0
+2025-06-15 16:50:36,722 [WARNING] Image saved to: misaligned_snaps/pos_58_to_41_20250615_165032.jpg
+2025-06-15 16:50:36,722 [ERROR] Error on step 3 for combination 78 58 99
+2025-06-15 18:18:05,704 [INFO] attempts.txt already exists.
+2025-06-15 18:18:05,704 [INFO] Starting dial alignment procedure.
+2025-06-15 18:18:09,442 [INFO] Detected initial dial position: 0
+2025-06-15 18:18:09,442 [INFO] Already at position 0, no rotation needed.
+2025-06-15 18:18:12,767 [INFO] Attempting combination 78 58 99 (attempt #21)
+2025-06-15 18:18:12,855 [INFO] Trying combination: 78 58 99
+2025-06-15 18:18:12,855 [INFO] Step 1: Turn LEFT to 78 on 4th pass
+2025-06-15 18:18:12,855 [INFO] Rotating 3 full passes + 78 steps to reach 78
+2025-06-15 18:18:42,968 [INFO] Rotation successful: 0 → 78
+2025-06-15 18:18:43,566 [INFO] Step 2: Turn RIGHT to 58 on 3rd pass
+2025-06-15 18:18:43,566 [INFO] Rotating 2 full passes + 20 steps to reach 58
+2025-06-15 19:28:14,772 [INFO] attempts.txt already exists.
+2025-06-15 19:28:14,774 [INFO] Starting dial alignment procedure.
+2025-06-15 19:28:18,966 [INFO] Detected initial dial position: 61
+2025-06-15 19:28:18,966 [INFO] Rotating from position 61 to 0 (counterclockwise).
+2025-06-15 19:28:18,966 [INFO] Rotating 0 full passes + 61 steps to reach 0
+2025-06-15 19:28:28,105 [INFO] Rotation successful: 61 → 0
+2025-06-15 19:28:28,106 [INFO] Dial successfully aligned to position 0.
+2025-06-15 19:28:30,272 [INFO] Attempting combination 78 58 99 (attempt #21)
+2025-06-15 19:28:30,336 [INFO] Trying combination: 78 58 99
+2025-06-15 19:28:30,336 [INFO] Step 1: Turn LEFT to 78 on 4th pass
+2025-06-15 19:28:30,336 [INFO] Rotating 3 full passes + 78 steps to reach 78
+2025-06-15 19:29:03,919 [INFO] Rotation successful: 0 → 78
+2025-06-15 19:29:03,919 [INFO] Step 2: Turn RIGHT to 58 on 3rd pass
+2025-06-15 19:29:03,920 [INFO] Rotating 2 full passes + 20 steps to reach 58
+2025-06-15 19:29:23,296 [INFO] Rotation successful: 78 → 58
+2025-06-15 19:29:23,296 [INFO] Step 3: Turn LEFT to 99 on 2nd pass
+2025-06-15 19:29:23,297 [INFO] Rotating 1 full passes + 41 steps to reach 99
+2025-06-15 19:29:37,414 [INFO] Rotation successful: 58 → 99
+2025-06-15 19:29:37,414 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 19:29:37,414 [INFO] Rotating 1 full passes + 0 steps to reach 99
+2025-06-15 19:29:49,100 [INFO] Rotation successful: 99 → 99
+2025-06-15 19:29:49,100 [INFO] Completed combination attempt: 78 58 99 - continuing...
+2025-06-15 19:29:50,139 [INFO] Attempting combination 32 19 77 (attempt #22)
+2025-06-15 19:29:50,212 [INFO] Trying combination: 32 19 77
+2025-06-15 19:29:50,213 [INFO] Step 1: Turn LEFT to 32 on 4th pass
+2025-06-15 19:29:50,213 [INFO] Rotating 3 full passes + 33 steps to reach 32
+2025-06-15 19:45:10,715 [INFO] attempts.txt already exists.
+2025-06-15 19:45:10,715 [INFO] Starting dial alignment procedure.
+2025-06-15 19:45:14,372 [INFO] Detected initial dial position: 49
+2025-06-15 19:45:14,372 [INFO] Rotating from position 49 to 0 (counterclockwise).
+2025-06-15 19:45:14,373 [INFO] Rotating 0 full passes + 49 steps to reach 0
+2025-06-15 19:45:22,559 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_0_0.jpg
+2025-06-15 19:45:22,560 [INFO] Rotation successful: 49 → 0
+2025-06-15 19:45:22,560 [INFO] Dial successfully aligned to position 0.
+2025-06-15 19:45:24,790 [INFO] Attempting combination 78 58 99 (attempt #21)
+2025-06-15 19:45:24,864 [INFO] Trying combination: 78 58 99
+2025-06-15 19:45:24,865 [INFO] Step 1: Turn LEFT to 78 on 4th pass
+2025-06-15 19:45:24,865 [INFO] Rotating 3 full passes + 78 steps to reach 78
+2025-06-15 19:45:54,618 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_78_0.jpg
+2025-06-15 19:45:54,618 [INFO] Rotation successful: 0 → 78
+2025-06-15 19:45:54,619 [INFO] Step 2: Turn RIGHT to 58 on 3rd pass
+2025-06-15 19:45:54,619 [INFO] Rotating 2 full passes + 20 steps to reach 58
+2025-06-15 19:46:13,888 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_58_0.jpg
+2025-06-15 19:46:13,889 [INFO] Rotation successful: 78 → 58
+2025-06-15 19:46:13,889 [INFO] Step 3: Turn LEFT to 99 on 2nd pass
+2025-06-15 19:46:13,889 [INFO] Rotating 1 full passes + 41 steps to reach 99
+2025-06-15 19:46:27,926 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_99_0.jpg
+2025-06-15 19:46:27,926 [INFO] Rotation successful: 58 → 99
+2025-06-15 19:46:27,926 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 19:46:27,927 [INFO] Rotating 1 full passes + 0 steps to reach 99
+2025-06-15 19:46:39,214 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_99_1.jpg
+2025-06-15 19:46:39,215 [INFO] Rotation successful: 99 → 99
+2025-06-15 19:46:39,215 [INFO] Completed combination attempt: 78 58 99 - continuing...
+2025-06-15 19:46:40,153 [INFO] Attempting combination 32 19 77 (attempt #22)
+2025-06-15 19:46:40,218 [INFO] Trying combination: 32 19 77
+2025-06-15 19:46:40,219 [INFO] Step 1: Turn LEFT to 32 on 4th pass
+2025-06-15 19:46:40,219 [INFO] Rotating 3 full passes + 33 steps to reach 32
+2025-06-15 19:47:06,930 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_32_0.jpg
+2025-06-15 19:47:06,930 [INFO] Rotation successful: 99 → 32
+2025-06-15 19:47:06,931 [INFO] Step 2: Turn RIGHT to 19 on 3rd pass
+2025-06-15 19:47:06,931 [INFO] Rotating 2 full passes + 13 steps to reach 19
+2025-06-15 19:47:25,755 [INFO] Training image saved (misaligned): /media/admin/IMG/dial_images2/dial2_19_0_misaligned.jpg
+2025-06-15 19:47:25,755 [INFO] Rotation successful: 32 → 19
+2025-06-15 19:47:25,756 [INFO] Step 3: Turn LEFT to 77 on 2nd pass
+2025-06-15 19:47:25,756 [INFO] Rotating 1 full passes + 58 steps to reach 77
+2025-06-15 19:47:40,988 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_77_0.jpg
+2025-06-15 19:47:40,989 [INFO] Rotation successful: 19 → 77
+2025-06-15 19:47:40,989 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 19:47:40,989 [INFO] Rotating 1 full passes + 0 steps to reach 77
+2025-06-15 19:47:52,452 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_77_1.jpg
+2025-06-15 19:47:52,452 [INFO] Rotation successful: 77 → 77
+2025-06-15 19:47:52,453 [INFO] Completed combination attempt: 32 19 77 - continuing...
+2025-06-15 19:47:54,603 [INFO] Attempting combination 98 10 17 (attempt #23)
+2025-06-15 19:47:54,674 [INFO] Trying combination: 98 10 17
+2025-06-15 19:47:54,674 [INFO] Step 1: Turn LEFT to 98 on 4th pass
+2025-06-15 19:47:54,675 [INFO] Rotating 3 full passes + 21 steps to reach 98
+2025-06-15 19:48:20,683 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_98_0.jpg
+2025-06-15 19:48:20,683 [INFO] Rotation successful: 77 → 98
+2025-06-15 19:48:20,684 [INFO] Step 2: Turn RIGHT to 10 on 3rd pass
+2025-06-15 19:48:20,684 [INFO] Rotating 2 full passes + 88 steps to reach 10
+2025-06-15 19:48:44,436 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_10_0.jpg
+2025-06-15 19:48:44,436 [INFO] Rotation successful: 98 → 10
+2025-06-15 19:48:44,437 [INFO] Step 3: Turn LEFT to 17 on 2nd pass
+2025-06-15 19:48:44,437 [INFO] Rotating 1 full passes + 7 steps to reach 17
+2025-06-15 19:48:56,252 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_17_0.jpg
+2025-06-15 19:48:56,253 [INFO] Rotation successful: 10 → 17
+2025-06-15 19:48:56,253 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 19:48:56,253 [INFO] Rotating 1 full passes + 0 steps to reach 17
+2025-06-15 19:49:07,526 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_17_1.jpg
+2025-06-15 19:49:07,526 [INFO] Rotation successful: 17 → 17
+2025-06-15 19:49:07,526 [INFO] Completed combination attempt: 98 10 17 - continuing...
+2025-06-15 19:49:10,060 [INFO] Attempting combination 96 86 47 (attempt #24)
+2025-06-15 19:49:10,140 [INFO] Trying combination: 96 86 47
+2025-06-15 19:49:10,141 [INFO] Step 1: Turn LEFT to 96 on 4th pass
+2025-06-15 19:49:10,141 [INFO] Rotating 3 full passes + 79 steps to reach 96
+2025-06-15 19:49:39,955 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_96_0.jpg
+2025-06-15 19:49:39,956 [INFO] Rotation successful: 17 → 96
+2025-06-15 19:49:39,956 [INFO] Step 2: Turn RIGHT to 86 on 3rd pass
+2025-06-15 19:49:39,956 [INFO] Rotating 2 full passes + 10 steps to reach 86
+2025-06-15 19:49:58,607 [INFO] Training image saved (misaligned): /media/admin/IMG/dial_images2/dial2_86_0_misaligned.jpg
+2025-06-15 19:49:58,607 [INFO] Rotation successful: 96 → 86
+2025-06-15 19:49:58,607 [INFO] Step 3: Turn LEFT to 47 on 2nd pass
+2025-06-15 19:49:58,608 [INFO] Rotating 1 full passes + 61 steps to reach 47
+2025-06-15 19:50:14,040 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_47_0.jpg
+2025-06-15 19:50:14,040 [INFO] Rotation successful: 86 → 47
+2025-06-15 19:50:14,040 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 19:50:14,040 [INFO] Rotating 1 full passes + 0 steps to reach 47
+2025-06-15 19:50:25,333 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_47_1.jpg
+2025-06-15 19:50:25,334 [INFO] Rotation successful: 47 → 47
+2025-06-15 19:50:25,334 [INFO] Completed combination attempt: 96 86 47 - continuing...
+2025-06-15 19:50:27,850 [INFO] Attempting combination 80 42 95 (attempt #25)
+2025-06-15 19:50:27,917 [INFO] Trying combination: 80 42 95
+2025-06-15 19:50:27,918 [INFO] Step 1: Turn LEFT to 80 on 4th pass
+2025-06-15 19:50:27,918 [INFO] Rotating 3 full passes + 33 steps to reach 80
+2025-06-15 19:50:54,681 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_80_0.jpg
+2025-06-15 19:50:54,681 [INFO] Rotation successful: 47 → 80
+2025-06-15 19:50:54,681 [INFO] Step 2: Turn RIGHT to 42 on 3rd pass
+2025-06-15 19:50:54,682 [INFO] Rotating 2 full passes + 38 steps to reach 42
+2025-06-15 19:51:15,150 [INFO] Training image saved (misaligned): /media/admin/IMG/dial_images2/dial2_42_0_misaligned.jpg
+2025-06-15 19:51:15,151 [INFO] Rotation successful: 80 → 42
+2025-06-15 19:51:15,152 [INFO] Step 3: Turn LEFT to 95 on 2nd pass
+2025-06-15 19:51:15,152 [INFO] Rotating 1 full passes + 53 steps to reach 95
+2025-06-15 19:51:30,009 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_95_0.jpg
+2025-06-15 19:51:30,010 [INFO] Rotation successful: 42 → 95
+2025-06-15 19:51:30,010 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 19:51:30,010 [INFO] Rotating 1 full passes + 0 steps to reach 95
+2025-06-15 19:51:41,305 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_95_1.jpg
+2025-06-15 19:51:41,305 [INFO] Rotation successful: 95 → 95
+2025-06-15 19:51:41,306 [INFO] Completed combination attempt: 80 42 95 - continuing...
+2025-06-15 19:51:43,522 [INFO] Attempting combination 34 28 92 (attempt #26)
+2025-06-15 19:51:43,587 [INFO] Trying combination: 34 28 92
+2025-06-15 19:51:43,587 [INFO] Step 1: Turn LEFT to 34 on 4th pass
+2025-06-15 19:51:43,587 [INFO] Rotating 3 full passes + 39 steps to reach 34
+2025-06-15 19:52:10,738 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_34_0.jpg
+2025-06-15 19:52:10,738 [INFO] Rotation successful: 95 → 34
+2025-06-15 19:52:10,738 [INFO] Step 2: Turn RIGHT to 28 on 3rd pass
+2025-06-15 19:52:10,738 [INFO] Rotating 2 full passes + 6 steps to reach 28
+2025-06-15 19:52:29,116 [INFO] Training image saved (misaligned): /media/admin/IMG/dial_images2/dial2_28_0_misaligned.jpg
+2025-06-15 19:52:29,116 [INFO] Rotation successful: 34 → 28
+2025-06-15 19:52:29,116 [INFO] Step 3: Turn LEFT to 92 on 2nd pass
+2025-06-15 19:52:29,117 [INFO] Rotating 1 full passes + 64 steps to reach 92
+2025-06-15 19:52:44,958 [INFO] Training image saved (aligned): /media/admin/IMG/dial_images2/dial2_92_0.jpg
+2025-06-15 19:52:44,958 [INFO] Rotation successful: 28 → 92
+2025-06-15 19:52:44,959 [INFO] Step 4: Turn RIGHT full 100 positions until lock opens
+2025-06-15 19:52:44,959 [INFO] Rotating 1 full passes + 0 steps to reach 92
